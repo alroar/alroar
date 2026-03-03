@@ -22,6 +22,8 @@
 
 ### About me:
 
+* Studied **Java** during my higher education
+* Learned **Spring Boot** through personal projects
 * Passionate about development
 * Eager to learn new technologies and improve coding skills every day
 * Interested in building scalable and maintainable applications
