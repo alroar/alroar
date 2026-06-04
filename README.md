@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
-<h3 align="center">A Junior Java Backend Developer based in Spain</h3>
+<h3 align="center">A Junior Developer based in Spain</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaro-42364a162/" target="_blank">LinkedIn</a> • 
